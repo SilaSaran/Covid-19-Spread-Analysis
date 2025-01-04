@@ -5,6 +5,7 @@ Introduction
 This project aims to create a comprehensive dashboard in Power BI to analyze the global impact of Covid-19. The dashboard will include various visualizations to provide insights into confirmed cases, deaths, recoveries, and other key metrics.
 
 Step-by-Step Guide
+
 Step 1: Open Power BI Report.
         Open Power BI Desktop.
         Import Dataset
